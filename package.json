@@ -1,0 +1,23 @@
+{
+  "name": "start-nodejs",
+  "version": "1.0.0",
+  "description": "慕课网学习-入门到企业Web开发中的应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyondme121/start-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beyondme121/start-nodejs/issues"
+  },
+  "homepage": "https://github.com/beyondme121/start-nodejs#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
